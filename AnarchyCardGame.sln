@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{45F32222-8E77-E3FD-EF5F-06136B403DD5}") = "AnarchyCardGame", "Assembly-CSharp-firstpass.csproj", "{A67D17AA-BACA-1E49-3D66-C866A6C896E6}"
+EndProject
+Project("{45F32222-8E77-E3FD-EF5F-06136B403DD5}") = "AnarchyCardGame", "Assembly-CSharp.csproj", "{2C8713C2-2F32-2C48-DC65-25EA74DDBDCA}"
+EndProject
+Project("{45F32222-8E77-E3FD-EF5F-06136B403DD5}") = "AnarchyCardGame", "Assembly-CSharp-Editor.csproj", "{97BEBC63-002A-CE68-9013-4F5232A88A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67D17AA-BACA-1E49-3D66-C866A6C896E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67D17AA-BACA-1E49-3D66-C866A6C896E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67D17AA-BACA-1E49-3D66-C866A6C896E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67D17AA-BACA-1E49-3D66-C866A6C896E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8713C2-2F32-2C48-DC65-25EA74DDBDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8713C2-2F32-2C48-DC65-25EA74DDBDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8713C2-2F32-2C48-DC65-25EA74DDBDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8713C2-2F32-2C48-DC65-25EA74DDBDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BEBC63-002A-CE68-9013-4F5232A88A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BEBC63-002A-CE68-9013-4F5232A88A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BEBC63-002A-CE68-9013-4F5232A88A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BEBC63-002A-CE68-9013-4F5232A88A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
